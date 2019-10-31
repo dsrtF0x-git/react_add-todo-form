@@ -1,0 +1,1 @@
+{"version":3,"sources":["newtodo.css"],"names":[],"mappings":"AAAA,KACE,6CAAmD,CACnD,0BAAmB,CAAnB,kBACF","file":"main.eca6763f.chunk.css","sourcesContent":[".err {\n  background-color: rgba(220, 50, 50, 0.5) !important;\n  transition: all .5s;\n}\n"]}
